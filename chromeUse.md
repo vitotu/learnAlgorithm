@@ -5,7 +5,7 @@
 4. 加载已解压的插件即可
 
 ## 插件推荐
-AdblockPlus：广告屏蔽
-Tampermonkey：油猴插件，该可拓展安装多种插件
-proxy SwitchOmega：代理切换插件
+AdblockPlus：广告屏蔽  
+Tampermonkey：油猴插件，该可拓展安装多种插件  
+proxy SwitchOmega：代理切换插件  
 

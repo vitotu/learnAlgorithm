@@ -2,7 +2,7 @@
 国内因为防火墙的原因，访问github并不稳定  
 本教程记录下利用v2ray默认配置稳定访问github的其中一种方法，当然v2ray还有更多其他强大的功能，如访问google等自行摸索  
 # v2ray
-使用(v2ray)[https://github.com/v2ray/v2ray-core]及其默认配置即可访问github
+使用[v2ray](https://github.com/v2ray/v2ray-core)及其默认配置即可访问github
 ## 下载v2ray
 点击上方github链接在右方找到![release.png](./resource/release.png)，  
 点击并在新的页面点击Download的链接进入项目的tag目录  
